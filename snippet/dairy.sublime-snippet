@@ -1,0 +1,37 @@
+<snippet>
+  <content><![CDATA[
+---
+date: ${1:date}
+
+---
+
+# 回顾：
+> 今天的目标是什么?
+> 完成了多少?
+
+
+
+
+# 成果或者收获的知识点
+> 学习了什么知识？
+> 具体怎么应用，其中原理具体是什么?
+> 对自己有什么样的启发?
+
+
+
+# 今日总结
+> 我们今天学到了什么?
+> 今天一个重要的领悟是什么?
+
+
+
+# 明日计划
+> 我们会如何用一句话形容今天的工作
+> 有哪些需要明天继续努力?
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <!-- <tabTrigger>hello</tabTrigger> -->
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <tabTrigger>dairy</tabTrigger><![CDATA[]]>
+</snippet>
